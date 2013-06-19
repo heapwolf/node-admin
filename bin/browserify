@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+browserify \
+../public/js/lib/moment.js \
+../public/js/lib/jquery/jquery.js \
+| uglifyjs > ../public/js/libs.min.js
