@@ -1,6 +1,5 @@
 {
   "name": "admin",
-  "private": "true",
   "version": "0.0.1",
   "description": "A generic, modular admin interface for node",
   "main": "index.js",
