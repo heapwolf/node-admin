@@ -1,5 +1,3 @@
-[leveldb](/public/img/leveldb.png)
-
 # SYNOPSIS
 Build simple modular admin interfaces for node
 
